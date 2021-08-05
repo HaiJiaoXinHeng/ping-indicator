@@ -8,7 +8,10 @@ It still has its rough edges and unimplemented parts, but does the job:
  -   monitors response time with logarithmic scale
  -   refreshes host IP (if DNS changed)
  -   has configurable ping interval
-
 Star/Watch the project to encourage further improvements.
 
 The latest .deb package is available at http://salseeg.github.io/ping-indicator/
+
+hahha ,it's æmy time
+
+
