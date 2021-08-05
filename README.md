@@ -1,4 +1,4 @@
-# Ping-indicator
+# Ping-indicator:没有编译成功，郁闷
 
 Ping-indicator is meant as a replacement for [link-monitor-applet](http://www.nongnu.org/link-monitor/) for Ubuntu.
 It still has its rough edges and unimplemented parts, but does the job:
