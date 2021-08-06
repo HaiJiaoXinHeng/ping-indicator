@@ -1,10 +1,13 @@
 .PHONY: all pkg clean check_deb prepare_pkg prepare_pkg_dir bin_64 bin_32 do_prepare_pkg
+#abcdef youdaole
+#hhhahah
 
 SHELL=/bin/bash
 CURRENT_VERSION := $(shell cat pkg/DEBIAN/control | grep Version: | cut -f 2 -d ' ')
 CURRENT_DATE := $(shell date -R )
 
 all: check_deb
+#this is all
 
 prepare_pkg_dir: 
 	mkdir -p pkg/usr/bin pkg/usr/share/ping-indicator pkg/usr/share/doc/ping-indicator pkg/usr/share/man/man1
